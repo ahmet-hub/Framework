@@ -1,0 +1,9 @@
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\bin\Debug\netcoreapp3.1\AhmetFramework.Business.deps.json
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\bin\Debug\netcoreapp3.1\AhmetFramework.Business.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\bin\Debug\netcoreapp3.1\AhmetFramework.Business.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\obj\Debug\netcoreapp3.1\AhmetFramework.Business.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\obj\Debug\netcoreapp3.1\AhmetFramework.Business.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\obj\Debug\netcoreapp3.1\AhmetFramework.Business.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\obj\Debug\netcoreapp3.1\AhmetFramework.Business.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\obj\Debug\netcoreapp3.1\AhmetFramework.Business.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\obj\Debug\netcoreapp3.1\AhmetFramework.Business.csprojAssemblyReference.cache

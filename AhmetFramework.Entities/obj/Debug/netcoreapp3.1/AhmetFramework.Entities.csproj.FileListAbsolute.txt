@@ -1,0 +1,12 @@
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\bin\Debug\netcoreapp3.1\AhmetFramework.Entities.deps.json
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\bin\Debug\netcoreapp3.1\AhmetFramework.Entities.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\bin\Debug\netcoreapp3.1\AhmetFramework.Entities.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\obj\Debug\netcoreapp3.1\AhmetFramework.Entities.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\obj\Debug\netcoreapp3.1\AhmetFramework.Entities.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\obj\Debug\netcoreapp3.1\AhmetFramework.Entities.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\obj\Debug\netcoreapp3.1\AhmetFramework.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\obj\Debug\netcoreapp3.1\AhmetFramework.Entities.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\obj\Debug\netcoreapp3.1\AhmetFramework.Entities.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\bin\Debug\netcoreapp3.1\AhmetFramework.Core.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\bin\Debug\netcoreapp3.1\AhmetFramework.Core.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Entities\obj\Debug\netcoreapp3.1\AhmetFramework.Entities.csproj.CopyComplete

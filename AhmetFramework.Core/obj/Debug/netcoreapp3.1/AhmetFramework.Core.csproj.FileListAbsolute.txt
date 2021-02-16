@@ -1,0 +1,9 @@
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Core\bin\Debug\netcoreapp3.1\AhmetFramework.Core.deps.json
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Core\bin\Debug\netcoreapp3.1\AhmetFramework.Core.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Core\bin\Debug\netcoreapp3.1\AhmetFramework.Core.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Core\obj\Debug\netcoreapp3.1\AhmetFramework.Core.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Core\obj\Debug\netcoreapp3.1\AhmetFramework.Core.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Core\obj\Debug\netcoreapp3.1\AhmetFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Core\obj\Debug\netcoreapp3.1\AhmetFramework.Core.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Core\obj\Debug\netcoreapp3.1\AhmetFramework.Core.pdb
+c:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Core\obj\Debug\netcoreapp3.1\AhmetFramework.Core.csprojAssemblyReference.cache

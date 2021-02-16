@@ -1,0 +1,15 @@
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\bin\Debug\netcoreapp3.1\AhmetFramework.DataAccess.deps.json
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\bin\Debug\netcoreapp3.1\AhmetFramework.DataAccess.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\bin\Debug\netcoreapp3.1\AhmetFramework.DataAccess.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\obj\Debug\netcoreapp3.1\AhmetFramework.DataAccess.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\obj\Debug\netcoreapp3.1\AhmetFramework.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\obj\Debug\netcoreapp3.1\AhmetFramework.DataAccess.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\obj\Debug\netcoreapp3.1\AhmetFramework.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\obj\Debug\netcoreapp3.1\AhmetFramework.DataAccess.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\obj\Debug\netcoreapp3.1\AhmetFramework.DataAccess.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\bin\Debug\netcoreapp3.1\AhmetFramework.DataAccess.dll.config
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\bin\Debug\netcoreapp3.1\AhmetFramework.Core.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\bin\Debug\netcoreapp3.1\AhmetFramework.Entities.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\bin\Debug\netcoreapp3.1\AhmetFramework.Core.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\bin\Debug\netcoreapp3.1\AhmetFramework.Entities.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess\obj\Debug\netcoreapp3.1\AhmetFramework.DataAccess.csproj.CopyComplete
