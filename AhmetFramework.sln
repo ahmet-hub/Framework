@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AhmetFramework.Entities", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AhmetFramework.Core", "AhmetFramework.Core\AhmetFramework.Core.csproj", "{FFAE83B0-74B3-4749-A719-172070F88A4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AhmetFramework.DataAccess.UnitTest", "AhmetFramework.DataAccess.UnitTest\AhmetFramework.DataAccess.UnitTest.csproj", "{4D0BF7BE-CC0C-438E-8924-4DCB82E32CF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AhmetFramework.DataAccess.UnitTest", "AhmetFramework.DataAccess.UnitTest\AhmetFramework.DataAccess.UnitTest.csproj", "{4D0BF7BE-CC0C-438E-8924-4DCB82E32CF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTUI", "TESTUI\TESTUI.csproj", "{6C07375D-6E19-4159-876A-F602D895C2A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TESTUI", "TESTUI\TESTUI.csproj", "{6C07375D-6E19-4159-876A-F602D895C2A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AhmetFramework.WebApi", "AhmetFramework.WebApi\AhmetFramework.WebApi.csproj", "{E0705F90-68D0-4FB2-A670-F9E3A7A7EB92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{6C07375D-6E19-4159-876A-F602D895C2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C07375D-6E19-4159-876A-F602D895C2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C07375D-6E19-4159-876A-F602D895C2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0705F90-68D0-4FB2-A670-F9E3A7A7EB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0705F90-68D0-4FB2-A670-F9E3A7A7EB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0705F90-68D0-4FB2-A670-F9E3A7A7EB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0705F90-68D0-4FB2-A670-F9E3A7A7EB92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

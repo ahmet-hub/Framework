@@ -9,6 +9,6 @@ namespace AhmetFramework.DataAccess.Abstract
 {
   public interface IProductRepository : IEntityRepository<Product>
   {
-      List<ProductDetail> ProductDetails();
+      public List<ProductDetail> ProductDetails();
   }
 }

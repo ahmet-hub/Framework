@@ -1,4 +1,6 @@
+using AhmetFramework.Business.Concrete.Manager;
 using AhmetFramework.DataAccess.Concrete.EntityFramework;
+using AhmetFramework.Entities;
 using System;
 using System.Linq;
 
@@ -6,18 +8,15 @@ namespace TESTUI
 {
   class Program
   {
-    static void Main(string[] args)
+    static  void Main(string[] args)
     {
-      ProductRepository efProductDal = new ProductRepository();
-      var result = efProductDal.GetAllAsync().Result.ToList();
-      Console.WriteLine(result.Count);
-      var data=efProductDal.ProductDetails();
-      
-      //foreach (var item in data)
-      //{
-      //  Console.WriteLine(item.ProductName+"---" +item.CategoryName);
 
-      //}
+      ProductManager productManager = new ProductManager(new ProductRepository());
+      //var data=productManager.AddAsync(new Product { CategoryId=1});
+      //var sounc= data.Result;
+
+      var data = productManager.AddAsync(new Product { CategoryId = 1 });
+      var sonuc=data.Result;
     }
   }
 }

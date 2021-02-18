@@ -158,3 +158,8 @@ C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess.UnitTest\bi
 C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess.UnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
 C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess.UnitTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess.UnitTest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess.UnitTest\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess.UnitTest\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess.UnitTest\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess.UnitTest\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.DataAccess.UnitTest\bin\Debug\netcoreapp3.1\Castle.Core.dll

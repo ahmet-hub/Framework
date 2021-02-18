@@ -1,5 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.1.0" />
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="6.0.0" />
+    <PackageReference Include="FluentValidation" Version="9.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AhmetFramework.Core\AhmetFramework.Core.csproj" />
+    <ProjectReference Include="..\AhmetFramework.Entities\AhmetFramework.Entities.csproj" />
+    <ProjectReference Include="..\AhmetFramework.DataAccess\AhmetFramework.DataAccess.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>

@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AhmetFramework.Business\AhmetFramework.Business.csproj" />
     <ProjectReference Include="..\AhmetFramework.DataAccess\AhmetFramework.DataAccess.csproj" />
   </ItemGroup>
 

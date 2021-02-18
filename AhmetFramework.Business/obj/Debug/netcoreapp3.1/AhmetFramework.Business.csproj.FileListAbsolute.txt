@@ -7,3 +7,11 @@ C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\obj\Debug\net
 C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\obj\Debug\netcoreapp3.1\AhmetFramework.Business.dll
 C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\obj\Debug\netcoreapp3.1\AhmetFramework.Business.pdb
 C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\obj\Debug\netcoreapp3.1\AhmetFramework.Business.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\bin\Debug\netcoreapp3.1\AhmetFramework.Core.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\bin\Debug\netcoreapp3.1\AhmetFramework.DataAccess.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\bin\Debug\netcoreapp3.1\AhmetFramework.Entities.dll
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\bin\Debug\netcoreapp3.1\AhmetFramework.Entities.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\bin\Debug\netcoreapp3.1\AhmetFramework.DataAccess.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\bin\Debug\netcoreapp3.1\AhmetFramework.DataAccess.dll.config
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\bin\Debug\netcoreapp3.1\AhmetFramework.Core.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\AhmetFramework.Business\obj\Debug\netcoreapp3.1\AhmetFramework.Business.csproj.CopyComplete

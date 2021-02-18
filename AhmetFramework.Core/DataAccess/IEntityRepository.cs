@@ -9,11 +9,11 @@ namespace AhmetFramework.Core.DataAccess
 {
   public interface IEntityRepository<T> where T : class, IEntity, new()
   {
-    Task<IEnumerable<T>> GetAllAsync(Expression<Func<T, bool>> filter = null);
-    Task<T> GetAsync(Expression<Func<T, bool>> filter);
-    Task<T> AddAsync(T entity);
-    Task<T> UpdateAsync(T entity);
-    Task DeleteAsync(T entity);
+    public Task<IEnumerable<T>> GetAllAsync(Expression<Func<T, bool>> filter = null);
+    public Task<T> GetAsync(Expression<Func<T, bool>> filter);
+    public Task<T> AddAsync(T entity);
+    public Task<T> UpdateAsync(T entity);
+    public Task DeleteAsync(T entity);
 
   }
 }

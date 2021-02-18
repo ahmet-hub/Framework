@@ -78,3 +78,11 @@ C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\Micros
 C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
 C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\AhmetFramework.Business.dll
+C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\AhmetFramework.Business.pdb
+C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\ahmet\source\repos\AhmetFramework\TESTUI\bin\Debug\netcoreapp3.1\AutoMapper.dll

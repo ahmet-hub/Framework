@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "eCxk0UlA6RR2TL44d5X8TfcXmSFCdRBbnp/5AqhsGdUfBx9mnh1wGfcePXG0tqZ0pDxUXwtNyRULPHOpz/CNrA==",
+  "dgSpecHash": "OzUQ8uA1O+J1n24tMkZfSMp/y8zbji292Dw7j9qAfre+cSNCXZQAPXLuA9ywwYRS/Lr9eQXnEpBTm4tBEzh2mg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ahmet\\source\\repos\\AhmetFramework\\AhmetFramework.DataAccess.UnitTest\\AhmetFramework.DataAccess.UnitTest.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
