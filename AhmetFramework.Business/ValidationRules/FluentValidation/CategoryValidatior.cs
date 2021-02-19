@@ -10,8 +10,9 @@ namespace AhmetFramework.Business.ValidationRules.FluentValidation
   {
     public CategoryValidatior()
     {
-      RuleFor(c => c.CategoryId).NotEmpty();
       RuleFor(c => c.CategoryName).NotEmpty();
+      RuleFor(c => c.Description).NotEmpty();
+      
     }
   }
 }

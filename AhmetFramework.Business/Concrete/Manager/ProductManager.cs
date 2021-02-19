@@ -10,6 +10,7 @@ using AhmetFramework.Core.Business;
 using AhmetFramework.Core.Utilities.Results;
 using AhmetFramework.DataAccess.Abstract;
 using AhmetFramework.Entities;
+using AhmetFramework.Entities.ComplexType;
 
 namespace AhmetFramework.Business.Concrete.Manager
 {
@@ -38,7 +39,7 @@ namespace AhmetFramework.Business.Concrete.Manager
     public async Task<IDataResult<IEnumerable<Product>>> GetAllAsync(Expression<Func<Product, bool>> filter = null)
     {
 
-      var result = new SuccessDataResult<IEnumerable<Product>>(await _productRepository.GetAllAsync(), "Urunler Listelendi");
+      var result = new SuccessDataResult<IEnumerable<Product>>(await _productRepository.GetAllAsync(filter), "Urunler Listelendi");
       return result;
     }
 
@@ -47,6 +48,10 @@ namespace AhmetFramework.Business.Concrete.Manager
       return new SuccessDataResult<Product>(await _productRepository.GetAsync(filter), "Urun Listelendi");
     }
 
+    public IDataResult<IEnumerable<ProductDetail>> GetProductWithCategories()
+    {
+      return new SuccessDataResult<IEnumerable<ProductDetail>>(_productRepository.ProductDetails());
+    }
 
     public void TransactionOperation(Product updateProduct, Product addedProduct)
     {
@@ -56,10 +61,11 @@ namespace AhmetFramework.Business.Concrete.Manager
     [ValidationAspect(typeof(ProductValidatior))]
     public async Task<IDataResult<Product>> UpdateAsync(Product entity)
     {
+      
       return new SuccessDataResult<Product>(await _productRepository.UpdateAsync(entity), "Urun Guncellendi");
 
     }
 
-
+ 
   }
 }

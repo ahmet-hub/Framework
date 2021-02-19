@@ -50,6 +50,19 @@ namespace AhmetFramework.WebApi.Controllers
 
     }
 
+    [HttpGet("/category")]
+    public IActionResult GetAllWithCategory()
+    {
+      var result =  _productService.GetProductWithCategories();
+      if (result.Success)
+      {
+        return Ok(result.Data);
+      }
+      return BadRequest(result.Message);
+
+    }
+
+
     [HttpPost]
     public async Task<IActionResult> Add(ProductDto productDto)
     {
@@ -66,16 +79,16 @@ namespace AhmetFramework.WebApi.Controllers
     [HttpPost("{id}")]
     public async Task<IActionResult> Update(int id, ProductDto productDto)
     {
-      var result = _mapper.Map<Product>(productDto);
-      result.ProductId = id;
-      var updatedProduct = await _productService.UpdateAsync(result);
+      var updatedProduct = _mapper.Map<Product>(productDto);
+      updatedProduct.ProductId = id;
+      var result = await _productService.UpdateAsync(updatedProduct);
 
-      if (updatedProduct.Success)
+      if (result.Success)
       {
         return NoContent();
       }
 
-      return BadRequest(updatedProduct.Message);
+      return BadRequest(result.Message);
     }
 
     [HttpDelete("{id}")]

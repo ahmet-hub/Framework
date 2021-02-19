@@ -14,6 +14,9 @@ namespace AhmetFramework.WebApi.AutoMapper
     {
       CreateMap<ProductDto, Product>();
       CreateMap<Product, ProductDto>();
+
+      CreateMap<CategoryDto, Category>();
+      CreateMap<Category, CategoryDto>();
     }
   }
 }
